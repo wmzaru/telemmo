@@ -26,6 +26,7 @@ module.exports = {
         test: /\.js$/,
         loaders: [
           'gettext',
+          'ramda?debug=true&strict=false',
           'babel?presets=es2015-native-generators',
         ],
       },

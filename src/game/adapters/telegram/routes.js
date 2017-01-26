@@ -9,5 +9,9 @@ export default [
     match: /\/info_(.*)/,
     handler: handlers.classInfo,
   },
+  {
+    match: /\create_(.*)/,
+    handler: handlers.createChar,
+  },
 ]
 

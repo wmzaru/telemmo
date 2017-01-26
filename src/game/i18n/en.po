@@ -32,3 +32,9 @@ msgtr ""
 msgid "Invalid class name"
 msgtr ""
 
+#: src/game/handlers/start.js 47:10
+msgid ":globe_with_meridians: We0lcome to TeleMMO! :globe_with_meridians:
+
+ You will now create your first character. Touch the comands below to see information about a class."
+msgstr ""
+

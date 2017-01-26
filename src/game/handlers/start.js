@@ -1,9 +1,11 @@
 import {
+  partial,
   splitEvery,
   always,
   map,
   pipe,
 } from 'ramda'
+
 import { emojify } from 'node-emoji'
 import { reject } from './errors'
 import models from '../models'
